@@ -1,0 +1,4 @@
+MYSQL_HOST = **Preencher localhost
+MYSQL_USER = **preencher user (root)
+MYSQL_PASSWORD = **preencher password
+MYSQL_DATABASE= **nome_database
